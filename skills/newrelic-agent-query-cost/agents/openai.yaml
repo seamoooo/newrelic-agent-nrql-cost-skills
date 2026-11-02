@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Relic APM Agent NRQL Cost Optimization"
+  short_description: "APMエージェントのNRQLコストと結果同等性を評価する"
+  default_prompt: "$newrelic-agent-query-cost を使い、このNRQLの実行コストと結果同等性を評価してください。"
